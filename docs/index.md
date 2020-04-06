@@ -1,33 +1,19 @@
-## Portfolio
+## ModernApps Ninja Contributor Portfolio
 
 ---
 
-### Category Name 1 
+### Course Records
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Introduction to VMware Tanzu Portfolio (COU-TP6539)](/sample_page)
+<img src="images/sample-certificate-480x289.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tanzu Mission Control 101 (COU-MC8251)](/pdf/sample_presentation.pdf)
+<img src="images/sample-certificate-480x289.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+[Tanzu Mission Control 201 (COU-MC3546)](http://example.com/)
+<img src="images/sample-certificate-480x289.png?raw=true"/>
 
 
 ---
