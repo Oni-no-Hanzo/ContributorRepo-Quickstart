@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Put more info about yourself here if you want
   <br><br>
+  <a href="https://en.wikipedia.org/wiki/Hattori_Hanz%C5%8D">Read about me on Wikipedia</a>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
