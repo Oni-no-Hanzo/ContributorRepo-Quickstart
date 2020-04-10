@@ -5,15 +5,15 @@
 ### Course Records
 
 [Introduction to VMware Tanzu Portfolio (COU-TP6539)](/sample_page)
-<img src="images/sample-certificate-480x289.png?raw=true"/>
+<img src="images/sample-certificate-480x269.png?raw=true"/>
 
 ---
 [Tanzu Mission Control 101 (COU-MC8251)](/pdf/sample_presentation.pdf)
-<img src="images/sample-certificate-480x289.png?raw=true"/>
+<img src="images/sample-certificate-480x269.png?raw=true"/>
 
 ---
 [Tanzu Mission Control 201 (COU-MC3546)](http://example.com/)
-<img src="images/sample-certificate-480x289.png?raw=true"/>
+<img src="images/sample-certificate-480x269.png?raw=true"/>
 
 
 ---
